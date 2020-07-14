@@ -1,0 +1,12 @@
+/* * {
+    margin: 0;
+    padding: 0;
+}  */
+.line {
+    height: 33px;
+    width: 99px;
+    /* border-bottom: 1px solid black; */
+    /* display: block; //column orientation of lines */
+    
+}
+

@@ -1,0 +1,19 @@
+/* * {
+    margin: 0;
+    padding: 0;
+}  */
+.board {
+    /* margin-left: 100px;
+    margin-top: 100px; */
+    height: 99px;
+    width: 99px;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    margin: auto;
+    position: absolute;
+    left:0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+
